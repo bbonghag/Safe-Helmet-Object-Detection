@@ -1,4 +1,4 @@
-## Safe-Helmet-Object-Detection
+## Safety Helmet Object Detection
 
 ---
 
